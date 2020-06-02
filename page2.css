@@ -79,7 +79,7 @@
   }
   
   .products {
-    width: calc(100% - 19.5rem); /* deduct the width of categories */
+    width: calc(100%); /* deduct the width of categories */
     display: flex;
     flex-wrap: wrap;
   }
